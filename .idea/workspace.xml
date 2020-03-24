@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce0fffe2-9df9-4330-8524-565f08d832c2" name="Default Changelist" comment="QuickSort&#10;HeapSort&#10;BinarySearch">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/per/gyx/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/per/gyx/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/test/per/gyx/QuickSortTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/per/gyx/FindTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/per/gyx/PrintArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/per/gyx/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/per/gyx/TopK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/per/gyx/FindTargetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/per/gyx/QuickSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/per/gyx/TopKTest.java" afterDir="false" />
+    <list default="true" id="ce0fffe2-9df9-4330-8524-565f08d832c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/per/gyx/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/per/gyx/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/per/gyx/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/per/gyx/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/test/per/gyx/QuickSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/test/per/gyx/QuickSortTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/per/gyx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/per/gyx/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -44,6 +36,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,7 +54,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FindTargetTest.testFindTarget">
+  <component name="RunManager" selected="Application.DemoMain">
+    <configuration name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="per.gyx.DemoMain" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="per.gyx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="per.gyx.Main" />
       <module name="Algorithm" />
@@ -121,15 +131,20 @@
       <item itemvalue="JUnit.QuickSortTest.testQuickSort" />
       <item itemvalue="JUnit.TopKTest.testTopK" />
       <item itemvalue="JUnit.FindTargetTest.testFindTarget" />
+      <item itemvalue="Application.DemoMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoMain" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.FindTargetTest.testFindTarget" />
         <item itemvalue="JUnit.TopKTest.testTopK" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.QuickSortTest.testQuickSort" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -142,8 +157,18 @@
       <option name="presentableId" value="Default" />
       <updated>1584882272163</updated>
       <workItem from="1584882273528" duration="1286000" />
-      <workItem from="1584883659509" duration="4577000" />
+      <workItem from="1584883659509" duration="4646000" />
+      <workItem from="1584892356012" duration="1203000" />
+      <workItem from="1585014272932" duration="6409000" />
     </task>
+    <task id="LOCAL-00001" summary="QuickSort&#10;HeapSort&#10;BinarySearch">
+      <created>1584888534839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584888534840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
