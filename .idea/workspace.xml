@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ce0fffe2-9df9-4330-8524-565f08d832c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/per/gyx/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/per/gyx/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/per/gyx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/per/gyx/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -166,6 +164,7 @@
       <workItem from="1585103723309" duration="3640000" />
       <workItem from="1585211896712" duration="730000" />
       <workItem from="1585220542805" duration="6037000" />
+      <workItem from="1585233962471" duration="670000" />
     </task>
     <task id="LOCAL-00001" summary="QuickSort&#10;HeapSort&#10;BinarySearch">
       <created>1584888534839</created>
@@ -188,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585042202146</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="MeiTuanTest">
+      <created>1585233989768</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585233989768</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +216,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="QuickSort&#10;HeapSort&#10;BinarySearch" />
     <MESSAGE value="DynamicProxy" />
-    <option name="LAST_COMMIT_MESSAGE" value="DynamicProxy" />
+    <MESSAGE value="MeiTuanTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="MeiTuanTest" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
