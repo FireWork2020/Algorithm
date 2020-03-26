@@ -4,8 +4,6 @@
     <list default="true" id="ce0fffe2-9df9-4330-8524-565f08d832c2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm/per/gyx/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/per/gyx/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/per/gyx/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/per/gyx/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/test/per/gyx/QuickSortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/test/per/gyx/QuickSortTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/per/gyx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/per/gyx/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -133,10 +131,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.DemoMain" />
       <item itemvalue="JUnit.QuickSortTest.testQuickSort" />
       <item itemvalue="JUnit.TopKTest.testTopK" />
       <item itemvalue="JUnit.FindTargetTest.testFindTarget" />
-      <item itemvalue="Application.DemoMain" />
     </list>
     <recent_temporary>
       <list>
@@ -164,7 +162,10 @@
       <workItem from="1584882273528" duration="1286000" />
       <workItem from="1584883659509" duration="4646000" />
       <workItem from="1584892356012" duration="1203000" />
-      <workItem from="1585014272932" duration="6409000" />
+      <workItem from="1585014272932" duration="10980000" />
+      <workItem from="1585103723309" duration="3640000" />
+      <workItem from="1585211896712" duration="730000" />
+      <workItem from="1585220542805" duration="6037000" />
     </task>
     <task id="LOCAL-00001" summary="QuickSort&#10;HeapSort&#10;BinarySearch">
       <created>1584888534839</created>
@@ -173,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584888534840</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DynamicProxy">
+      <created>1585042141881</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585042141881</updated>
+    </task>
+    <task id="LOCAL-00003" summary="DynamicProxy">
+      <created>1585042202146</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585042202146</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +209,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="QuickSort&#10;HeapSort&#10;BinarySearch" />
-    <option name="LAST_COMMIT_MESSAGE" value="QuickSort&#10;HeapSort&#10;BinarySearch" />
+    <MESSAGE value="DynamicProxy" />
+    <option name="LAST_COMMIT_MESSAGE" value="DynamicProxy" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
