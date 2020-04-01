@@ -56,6 +56,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.DemoMain">
+    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="per.gyx.BinaryTree" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="per.gyx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="per.gyx.DemoMain" />
       <module name="Algorithm" />
@@ -79,7 +92,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTargetTest.testFindTarget" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearchTest.testBinarySearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -88,14 +101,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.per.gyx" />
-      <option name="MAIN_CLASS_NAME" value="test.per.gyx.FindTargetTest" />
-      <option name="METHOD_NAME" value="testFindTarget" />
+      <option name="MAIN_CLASS_NAME" value="test.per.gyx.BinarySearchTest" />
+      <option name="METHOD_NAME" value="testBinarySearch" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSortTest.testQuickSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="QuickSort2Test.testQuickSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -104,24 +117,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.per.gyx" />
-      <option name="MAIN_CLASS_NAME" value="test.per.gyx.QuickSortTest" />
+      <option name="MAIN_CLASS_NAME" value="test.per.gyx.QuickSort2Test" />
       <option name="METHOD_NAME" value="testQuickSort" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TopKTest.testTopK" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.per.gyx.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.per.gyx" />
-      <option name="MAIN_CLASS_NAME" value="test.per.gyx.TopKTest" />
-      <option name="METHOD_NAME" value="testTopK" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,17 +127,17 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.DemoMain" />
-      <item itemvalue="JUnit.QuickSortTest.testQuickSort" />
-      <item itemvalue="JUnit.TopKTest.testTopK" />
-      <item itemvalue="JUnit.FindTargetTest.testFindTarget" />
+      <item itemvalue="Application.BinaryTree" />
+      <item itemvalue="JUnit.QuickSort2Test.testQuickSort" />
+      <item itemvalue="JUnit.BinarySearchTest.testBinarySearch" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.DemoMain" />
+        <item itemvalue="Application.BinaryTree" />
+        <item itemvalue="JUnit.BinarySearchTest.testBinarySearch" />
+        <item itemvalue="JUnit.QuickSort2Test.testQuickSort" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.FindTargetTest.testFindTarget" />
-        <item itemvalue="JUnit.TopKTest.testTopK" />
-        <item itemvalue="JUnit.QuickSortTest.testQuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +161,9 @@
       <workItem from="1585103723309" duration="3640000" />
       <workItem from="1585211896712" duration="730000" />
       <workItem from="1585220542805" duration="6037000" />
-      <workItem from="1585233962471" duration="670000" />
+      <workItem from="1585233962471" duration="1570000" />
+      <workItem from="1585293090146" duration="10862000" />
+      <workItem from="1585730388560" duration="503000" />
     </task>
     <task id="LOCAL-00001" summary="QuickSort&#10;HeapSort&#10;BinarySearch">
       <created>1584888534839</created>
@@ -194,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585233989768</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="MeiTuanTest">
+      <created>1585234758618</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585234758618</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
