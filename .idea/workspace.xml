@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce0fffe2-9df9-4330-8524-565f08d832c2" name="Default Changelist" comment="">
+    <list default="true" id="ce0fffe2-9df9-4330-8524-565f08d832c2" name="Default Changelist" comment="MeiTuanTest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoMain">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="per.gyx.BinaryTree" />
       <module name="Algorithm" />
@@ -82,17 +82,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="per.gyx.Main" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="per.gyx.Solution" />
       <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="per.gyx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchTest.testBinarySearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CountDolphinTest.testCountDolphin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -101,14 +104,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.per.gyx" />
-      <option name="MAIN_CLASS_NAME" value="test.per.gyx.BinarySearchTest" />
-      <option name="METHOD_NAME" value="testBinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="test.per.gyx.CountDolphinTest" />
+      <option name="METHOD_NAME" value="testCountDolphin" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort2Test.testQuickSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MinWaiterTest.testCalcMinStaff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -117,27 +120,27 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test.per.gyx" />
-      <option name="MAIN_CLASS_NAME" value="test.per.gyx.QuickSort2Test" />
-      <option name="METHOD_NAME" value="testQuickSort" />
+      <option name="MAIN_CLASS_NAME" value="test.per.gyx.MinWaiterTest" />
+      <option name="METHOD_NAME" value="testCalcMinStaff" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.DemoMain" />
       <item itemvalue="Application.BinaryTree" />
-      <item itemvalue="JUnit.QuickSort2Test.testQuickSort" />
-      <item itemvalue="JUnit.BinarySearchTest.testBinarySearch" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="JUnit.CountDolphinTest.testCountDolphin" />
+      <item itemvalue="JUnit.MinWaiterTest.testCalcMinStaff" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="JUnit.MinWaiterTest.testCalcMinStaff" />
+        <item itemvalue="JUnit.CountDolphinTest.testCountDolphin" />
         <item itemvalue="Application.DemoMain" />
         <item itemvalue="Application.BinaryTree" />
-        <item itemvalue="JUnit.BinarySearchTest.testBinarySearch" />
-        <item itemvalue="JUnit.QuickSort2Test.testQuickSort" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +166,10 @@
       <workItem from="1585220542805" duration="6037000" />
       <workItem from="1585233962471" duration="1570000" />
       <workItem from="1585293090146" duration="10862000" />
-      <workItem from="1585730388560" duration="503000" />
+      <workItem from="1585730388560" duration="6137000" />
+      <workItem from="1585795407305" duration="122000" />
+      <workItem from="1585906145572" duration="468000" />
+      <workItem from="1585914219344" duration="3983000" />
     </task>
     <task id="LOCAL-00001" summary="QuickSort&#10;HeapSort&#10;BinarySearch">
       <created>1584888534839</created>
@@ -200,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585234758618</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="MeiTuanTest">
+      <created>1585732066478</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585732066478</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
